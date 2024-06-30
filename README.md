@@ -19,7 +19,7 @@ This project demonstrates the use of Convolutional Neural Networks (CNNs) to cla
 
 To download the dataset from Kaggle, you need to set up the Kaggle API. Place your `kaggle.json` file, which contains your Kaggle credentials, in the appropriate directory. This step involves configuring your environment to authenticate with the Kaggle API and download datasets directly from Kaggle.
 
-### Step 2: Downloading the Dataset
+### Step 2: Downloading the Dataset [Kaggle link](https://www.kaggle.com/datasets/salader/dogs-vs-cats/data)
 
 Use the Kaggle API to download the "Dogs vs. Cats" dataset. This involves using Kaggle’s command-line interface to fetch the dataset from the specified URL. 
 
